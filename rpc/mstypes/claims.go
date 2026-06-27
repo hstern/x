@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-krb5/x/rpc/ndr"
+	"github.com/hstern/x/rpc/ndr"
 	"golang.org/x/net/http2/hpack"
 )
 

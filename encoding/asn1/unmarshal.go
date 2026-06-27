@@ -32,7 +32,7 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/go-krb5/x/internal/saferio"
+	"github.com/hstern/x/internal/saferio"
 )
 
 // A StructuralError suggests that the ASN.1 data is valid, but the Go type
