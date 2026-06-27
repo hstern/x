@@ -1,4 +1,4 @@
-module github.com/go-krb5/x
+module github.com/hstern/x
 
 go 1.25.0
 

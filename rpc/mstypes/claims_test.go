@@ -8,7 +8,7 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/go-krb5/x/rpc/ndr"
+	"github.com/hstern/x/rpc/ndr"
 	"github.com/stretchr/testify/assert"
 )
 
